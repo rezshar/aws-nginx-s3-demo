@@ -5,9 +5,6 @@ The goal was to build a simple **web application** hosted on **EC2 (Nginx)** and
 
 ---
 
-## 📌 Architecture
-![Architecture](./diagrams/architecture.png)
-
 **Flow:**
 1. User requests website → EC2 Public IP
 2. Nginx serves files from local directory
